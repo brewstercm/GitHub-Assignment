@@ -1,13 +1,14 @@
 # GitHub-Assignment
 
 ## Class Details
--Class: CSCI 3323
--Section: 001 
--Semester: Fall 2022
+- Class: CSCI 3323
+- Section: 001 
+- Semester: Fall 2022
+- Name: Cade Brewster
 
 ## Assignment Details
--Title: GitHub Assignment
+- Title: GitHub Assignment
 
 ## Branch Details
--Branch Name: Main
--Commit Number: 14
+- Branch Name: Main
+- Commit Number: 14
